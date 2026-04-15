@@ -52,6 +52,6 @@ Os dados são salvos em um arquivo JSON simples (`database.json`).
 
 ---
 
-## Autor
+## Feito por
 
-Seu Nome
+Victor Yuri
